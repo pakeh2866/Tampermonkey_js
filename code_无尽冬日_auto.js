@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         自动兑换CDK脚本
 // @namespace    http://tampermonkey.net/
-// @version      2024-10-16
+// @version      1.0
 // @description  try to take over the world!
-// @author       You
+// @author       pakeh
 // @match        https://wjdr-giftcode.centurygames.cn/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.cn
 // @grant        none
