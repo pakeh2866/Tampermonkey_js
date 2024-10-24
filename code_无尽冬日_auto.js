@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         自动兑换CDK脚本
-// @namespace    http://tampermonkey.net/
+// @name         无尽冬日自动兑换CDK脚本
+// @namespace    https://github.com/pakeh2866
 // @version      1.0
-// @description  try to take over the world!
+// @description  快速把多个账号都领取CDK礼包
 // @author       pakeh
 // @match        https://wjdr-giftcode.centurygames.cn/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.cn
@@ -23,7 +23,7 @@
     gameCdkButton.innerHTML = 'game_cdk';
 
     var test_start = document.createElement('button');
-    test_start.innerHTML= 'test_start'
+    test_start.innerHTML= '领取一次'
 
     // 设置按钮样式
     gameIdButton.style.position = 'fixed';
