@@ -7,6 +7,7 @@
 // @match        https://wjdr-giftcode.centurygames.cn/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=centurygames.cn
 // @grant        none
+// @lincense     MIT
 // ==/UserScript==
 
 (function() {
